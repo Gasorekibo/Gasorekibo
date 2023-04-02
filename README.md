@@ -1,7 +1,6 @@
-[![MasterHead](https://cloudinary.com/blog/wp-content/uploads/sites/12/2022/02/Mario_1.gif)]
+<img align="rigth" width="400" src="https://www.shutterstock.com/image-vector/vector-illustration-man-working-front-260nw-485667631.jpg" alt="team"> 
 <h1 align="center">Hi 👋, I'm Gasore MUGWANEZA</h1>
 <h3 align="center">I'm passionate About both Information security and networks & Internet programming.</h3>
-<img align="rigth" width="400" src="https://www.shutterstock.com/image-vector/vector-illustration-man-working-front-260nw-485667631.jpg" alt="team"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gasorekibo&label=Profile%20views&color=0e75b6&style=flat" alt="gasorekibo" /> </p>
 
 * 🌱 I’m currently learning **Django & React**
