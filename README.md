@@ -3,7 +3,7 @@
 <h3 align="center">I'm passionate About both Information security and networks & Internet programming.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gasorekibo&label=Profile%20views&color=0e75b6&style=flat" alt="gasorekibo" /> </p>
 
-* 🌱 I’m currently learning **Django & React**
+* 🌱 I’m currently learning at **African Leadership University**
 
 * 👯 And I’m looking to collaborate on **Any project**
 
