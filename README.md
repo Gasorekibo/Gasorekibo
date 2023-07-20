@@ -7,11 +7,11 @@
 
 * 👯 And I’m looking to collaborate on **Any project**
 
-* 💬 Ask me about **Python, JS HTML & CSS**
+* 💬 Ask me about **Python, JS, HTML, React, NodeJs, Bootstrap**
 
 * 📫 How to reach me **m.gasore@alustudent.com**
 
-* ⚡ Fun fact **I'm a big fan of Volley ball.**
+* ⚡ Fun fact **I'm a big fan of Volleyball.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
