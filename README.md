@@ -1,5 +1,5 @@
-<img align="rigth" width="100%" object="fill" src="https://www.shutterstock.com/image-vector/vector-illustration-man-working-front-260nw-485667631.jpg" alt="team"> 
-<img align="rigth" width="100%" src="https://www.codewars.com/users/Gasore-MUGWANEZA/badges/large"/>
+<img align="rigth" width="80%" object="fill" src="https://www.shutterstock.com/image-vector/vector-illustration-man-working-front-260nw-485667631.jpg" alt="team"> 
+<img align="rigth" width="80%" src="https://www.codewars.com/users/Gasore-MUGWANEZA/badges/large"/>
 <h1 align="center">Hi 👋, I'm Gasore MUGWANEZA</h1>
 <h3 align="center">I'm a Fullstack Web Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gasorekibo&label=Profile%20views&color=0e75b6&style=flat" alt="gasorekibo" /> </p>
