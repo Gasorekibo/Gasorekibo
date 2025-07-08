@@ -10,7 +10,7 @@
 
 * 💬 Ask me about **Python, JS, HTML, React, NodeJs, Bootstrap**
 
-* 📫 How to reach me **m.gasore@alustudent.com**
+* 📫 How to reach me **mugwanezagasore073@gmail.com**
 
 * ⚡ Fun fact **I'm a big fan of Volleyball.**
 
