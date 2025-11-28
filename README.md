@@ -8,7 +8,7 @@
 
 * 👯 And I’m looking to collaborate on **Any project**
 
-* 💬 Ask me about **Python, JavaScript,React, NextJs, NodeJs/Express, Sql & Nosql, Tailwind**
+* 💬 Ask me about **Python, JavaScript,React, NextJs, NodeJs/Express, NestJs, Sql & Nosql, Tailwind**
 
 * 📫 How to reach me **mugwanezagasore073@gmail.com**
 
