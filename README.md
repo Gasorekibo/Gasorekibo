@@ -4,11 +4,11 @@
 <h3 align="center">I'm a Fullstack Web Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gasorekibo&label=Profile%20views&color=0e75b6&style=flat" alt="gasorekibo" /> </p>
 
-* 🌱 I’m currently learning at **African Leadership University**
+* 🌱 Pursued my BS in Software Engineering at **African Leadership University**
 
 * 👯 And I’m looking to collaborate on **Any project**
 
-* 💬 Ask me about **Python, JS, HTML, React, NodeJs, Bootstrap**
+* 💬 Ask me about **Python, JavaScript,React, NextJs, NodeJs/Express, Sql & Nosql, Tailwind**
 
 * 📫 How to reach me **mugwanezagasore073@gmail.com**
 
